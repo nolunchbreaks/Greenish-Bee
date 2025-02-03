@@ -1,2 +1,2 @@
 # Greenish Bee
-- This is a website done by me for an alternative holistic health company called Greenish BEE. I used HTML, CSS, and JAVASCRIPT
+- Originally built with React to explore microservices architecture and cloud deployment best practices. The final version was optimized for static deployment using plain HTML, CSS, and JavaScript."
